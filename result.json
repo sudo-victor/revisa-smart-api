@@ -1,0 +1,71 @@
+{
+  "essay_assessment": {
+    "competences": [
+      {
+        "name": "Demonstração de domínio da norma padrão",
+        "score_achieved": 180,
+        "possible_score": 200,
+        "suggestions": [
+          {
+            "kind": "error",
+            "locale": "colégios fometam",
+            "reason": "Erro de ortografia",
+            "tip": "Substituir por 'colégios fomentam'"
+          }
+        ]
+      },
+      {
+        "name": "Compreender a proposta de redação",
+        "score_achieved": 200,
+        "possible_score": 200,
+        "suggestions": []
+      },
+      {
+        "name": "Selecionar, relacionar, organizar e interpretar informações",
+        "score_achieved": 180,
+        "possible_score": 200,
+        "suggestions": [
+          {
+            "kind": "tip",
+            "locale": "educação deficiente acerca do tema",
+            "reason": "Generalização ampla, falta especificar exemplos concretos",
+            "tip": "Adicionar exemplos específicos de programas ou projetos educacionais"
+          }
+        ]
+      },
+      {
+        "name": "Demonstrar conhecimento dos mecanismos linguísticos necessários para a construção da argumentação",
+        "score_achieved": 190,
+        "possible_score": 200,
+        "suggestions": [
+          {
+            "kind": "tip",
+            "locale": "de acordo com a Teoria do Indigenato",
+            "reason": "Uso correto de referência, mas poderia enriquecer com mais autores ou teorias",
+            "tip": "Incluir mais referências teóricas para fortalecer o argumento"
+          }
+        ]
+      },
+      {
+        "name": "Elaborar proposta de intervenção",
+        "score_achieved": 150,
+        "possible_score": 200,
+        "suggestions": [
+          {
+            "kind": "tip",
+            "locale": "Ministério da Educação – órgão",
+            "reason": "Proposta genérica sem detalhamento aprofundado",
+            "tip": "Detalhar como a matéria 'Estudos Indigenistas' seria implementada na grade curricular"
+          },
+          {
+            "kind": "tip",
+            "locale": "Ministério do Desenvolvimento",
+            "reason": "Falta especificar como a fiscalização seria feita",
+            "tip": "Especificar métodos de fiscalização e sanções para empresas"
+          }
+        ]
+      }
+    ],
+    "total_score": 900
+  }
+}
